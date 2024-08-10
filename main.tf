@@ -22,3 +22,8 @@ resource "azurerm_resource_group" "rg-01" {
   name     = "loll-rg"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "rg-02" {
+  name     = "ramukaka-rg"
+  location = "West Europe"
+}
