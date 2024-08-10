@@ -27,3 +27,8 @@ resource "azurerm_resource_group" "rg-02" {
   name     = "ramukaka-rg"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "rg-03" {
+  name     = "lallukaka-rg"
+  location = "West Europe"
+}
