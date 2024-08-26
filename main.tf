@@ -22,3 +22,6 @@ resource "azurerm_resource_group" "rg-03" {
   name     = "lallukaka-rg"
   location = "West Europe"
 }
+
+
+I am rizwan khan
